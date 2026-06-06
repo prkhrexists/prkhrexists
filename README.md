@@ -1,5 +1,5 @@
 # 💫 About Me:
-CS undergrad specializing in AI/ML systems, multi-agent architectures, and intelligent automation. Focused on building scalable, production-grade software solutions that leverage machine learning and modern cloud infrastructure. Seeking opportunities to develop robust systems and contribute to impactful AI-driven products.
+/*CS undergrad specializing in AI/ML systems, multi-agent architectures, and intelligent automation. Focused on building scalable, production-grade software solutions that leverage machine learning and modern cloud infrastructure. Seeking opportunities to develop robust systems and contribute to impactful AI-driven products.*/
 
 
 ## 🌐 Socials:
@@ -18,16 +18,15 @@ CS undergrad specializing in AI/ML systems, multi-agent architectures, and intel
 **ROBOTICS & HARDWARE:** ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 **DEVOPS & TOOLS:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=prkhrexists&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://github-readme-stats.shion.dev/api?username=prkhrexists&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=prkhrexists&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=prkhrexists&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=prkhrexists&theme=dark&hide_border=false)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prkhrexists&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
