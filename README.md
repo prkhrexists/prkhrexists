@@ -1,5 +1,5 @@
 # 💫 About Me:
-/*CS undergrad specializing in AI/ML systems, multi-agent architectures, and intelligent automation. Focused on building scalable, production-grade software solutions that leverage machine learning and modern cloud infrastructure. Seeking opportunities to develop robust systems and contribute to impactful AI-driven products.*/
+*CS undergrad specializing in AI/ML systems, multi-agent architectures, and intelligent automation. Focused on building scalable, production-grade software solutions that leverage machine learning and modern cloud infrastructure. Seeking opportunities to develop robust systems and contribute to impactful AI-driven products.*
 
 
 ## 🌐 Socials:
