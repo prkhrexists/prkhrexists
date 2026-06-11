@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="My Profile Animation" />
+</div>
+
 # 💫 About Me:
 *CS undergrad specializing in AI/ML systems, multi-agent architectures, and intelligent automation. Focused on building scalable, production-grade software solutions that leverage machine learning and modern cloud infrastructure. Seeking opportunities to develop robust systems and contribute to impactful AI-driven products.*
 
